@@ -31,7 +31,7 @@ Current Working Functionalities:
     * Less than 40 Gwei
   
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+Porject link :https://notiphi.netlify.app/ (Switch to kovan network)
 
 
 
